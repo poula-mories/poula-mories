@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @poula-mories
-- 👀 I’m interested in gis web development
-- 🌱 I’m currently learning front end framework and open source geospatial js library 
-- 💞️ I’m looking to collaborate on big gis projects that affect all people
-- 📫 How to reach me: mail: poulamories5@gmail.com
-                      linkedin: https://www.linkedin.com/in/poula-mories/
+👋 Hi, I'm Poula Mories!
+
+🚀 GIS Web & Backend Developer
+🌍 Passionate about GIS, web mapping, and backend development
+🌐 Building GIS-powered full-stack applications with ReactJS, Leaflet, PostgreSQL/PostGIS, GeoServer, TypeScript, Python, Docker, Linux
+📌 Currently working at Penta-b, developing GIS solutions
+📂 Check out my latest projects
+
+🔗 Connect with me: [[LinkedIn Profile]](https://www.linkedin.com/in/poula-mories/)  mail: poulamories5@gmail.com
 
 <!---
 poula-mories/poula-mories is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
